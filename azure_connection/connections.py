@@ -1,3 +1,9 @@
+
+## In the following file there are 3 ways to connect to the azure database. ##
+## The way that I recommend is to use the token (code of line 72 and so on) ##
+#### if you don't have a user with all the azure permissions. ################
+
+
 '''
 Connecting to database using username and password
 '''
